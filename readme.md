@@ -4,7 +4,6 @@ Scraped from https://en.wikipedia.org/wiki/List_of_association_football_club_riv
 
 ## Todo
 
-- Italy
 - Poland
 - Outside Europe
 
